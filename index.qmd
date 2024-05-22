@@ -1,5 +1,5 @@
 ---
-title: "blog_georodri"
+title: "GeoRodri"
 listing:
   contents: posts
   sort: "date desc"
