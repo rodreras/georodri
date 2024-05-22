@@ -30,7 +30,7 @@ fqdn==1.5.1
 h11==0.14.0
 httpcore==1.0.4
 httpx==0.27.0
-idna @ file:///work/ci_py311/idna_1676822698822/work
+idna
 ipykernel==6.29.3
 ipython==8.22.1
 ipywidgets==8.1.2
@@ -38,7 +38,7 @@ isoduration==20.11.0
 jedi==0.19.1
 Jinja2==3.1.3
 json5==0.9.17
-jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpatch
 jsonpointer==2.1
 jsonschema==4.21.1
 jsonschema-specifications==2023.12.1
@@ -75,18 +75,17 @@ pexpect==4.9.0
 pillow==10.2.0
 platformdirs==4.2.0
 plotly==5.19.0
-pluggy @ file:///work/ci_py311/pluggy_1676822818071/work
+pluggy 
 prometheus_client==0.20.0
 prompt-toolkit==3.0.43
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pycosat  
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycparser 
 Pygments==2.17.2
 pyOpenSSL  
 pyparsing==3.1.1
-PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 PyYAML==6.0.1
@@ -98,7 +97,7 @@ requests
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.18.0
-ruamel.yaml @ file:///work/ci_py311/ruamel.yaml_1676838772170/work
+ruamel.yaml 
 Send2Trash==1.8.2
 six==1.16.0
 sniffio==1.3.1
@@ -119,4 +118,4 @@ webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.7.0
 widgetsnbextension==4.0.10
-zstandard @ file:///work/ci_py311_2/zstandard_1679339489613/work
+zstandard 
