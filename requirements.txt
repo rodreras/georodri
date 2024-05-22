@@ -8,19 +8,17 @@ attrs==23.2.0
 Babel==2.14.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
-boltons @ file:///work/ci_py311/boltons_1677685195580/work
-Brotli @ file:///work/ci_py311/brotli-split_1676830125088/work
-certifi @ file:///croot/certifi_1690232220950/work/certifi
-cffi @ file:///work/ci_py311/cffi_1676822533496/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+certifi
+cffi 
+charset-normalizer 
 comm==0.2.1
-conda @ file:///croot/conda_1699303130622/work
-conda-content-trust @ file:///croot/conda-content-trust_1693490622020/work
-conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1700150901600/work/src
-conda-package-handling @ file:///croot/conda-package-handling_1690999929514/work
-conda_package_streaming @ file:///croot/conda-package-streaming_1690987966409/work
+conda 
+conda-content-trust 
+conda-libmamba-solver  
+conda-package-handling  
+conda_package_streaming  
 contourpy==1.2.0
-cryptography @ file:///croot/cryptography_1694444244250/work
+cryptography  
 cycler==0.12.1
 debugpy==1.8.1
 decorator==5.1.1
@@ -57,7 +55,7 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.3
 jupyterlab_widgets==3.0.10
 kiwisolver==1.4.5
-libmambapy @ file:///croot/mamba-split_1698782620632/work/libmambapy
+libmambapy  
 MarkupSafe==2.1.5
 matplotlib==3.8.3
 matplotlib-inline==0.1.6
@@ -70,7 +68,7 @@ notebook==7.1.1
 notebook_shim==0.2.4
 numpy==1.26.4
 overrides==7.7.0
-packaging @ file:///croot/packaging_1693575174725/work
+packaging  
 pandocfilters==1.5.1
 parso==0.8.3
 pexpect==4.9.0
@@ -83,10 +81,10 @@ prompt-toolkit==3.0.43
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
-pycosat @ file:///croot/pycosat_1696536503704/work
+pycosat  
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 Pygments==2.17.2
-pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyOpenSSL  
 pyparsing==3.1.1
 PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
 python-dateutil==2.8.2
@@ -96,7 +94,7 @@ pyzmq==25.1.2
 qtconsole==5.5.1
 QtPy==2.4.1
 referencing==0.33.0
-requests @ file:///croot/requests_1690400202158/work
+requests  
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rpds-py==0.18.0
@@ -110,12 +108,12 @@ tenacity==8.2.3
 terminado==0.18.0
 tinycss2==1.2.1
 tornado==6.4
-tqdm @ file:///croot/tqdm_1679561862951/work
+tqdm  
 traitlets==5.14.1
-truststore @ file:///croot/truststore_1695244293384/work
+truststore  
 types-python-dateutil==2.8.19.20240106
 uri-template==1.3.0
-urllib3 @ file:///croot/urllib3_1698257533958/work
+urllib3  
 wcwidth==0.2.13
 webcolors==1.13
 webencodings==0.5.1
